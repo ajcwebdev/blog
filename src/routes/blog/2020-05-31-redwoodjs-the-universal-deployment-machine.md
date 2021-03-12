@@ -1,7 +1,7 @@
 ---
 title: 'redwoodJS - the universal deployment machine'
 excerpt: 'RedwoodJS is an opinionated, full-stack, serverless web application framework for the Jamstack. It is designed to enable the dream of a Universal Deployment Machine.'
-coverImage: ''
+coverImage: 'https://res.cloudinary.com/practicaldev/image/fetch/s--6O8iYEr3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3pnjg67ezmbulgguc1a6.png'
 date: '2020-05-31T00:00:00.322Z'
 ---
 
